@@ -64,14 +64,13 @@ RULE 3: Kuch aur    → Guide karo
 ## 📸 Screenshots
 
 ### Telegram Bot Chat
-![Scenario](screenshots/Screenshot 2026-06-06 212156.png)
+![Telegram Chat](screenshots/Screenshot 2026-06-06 212156.png)
 
 ### Make.com Scenario
-![Scenario](screenshots/scenario.png)
+![Scenario](screenshots/Screenshot 2026-06-06 212557.png)
 
 ### Google Sheet
-![Sheet](screenshots/sheet.png)
-
+![Sheet](screenshots/Screenshot 2026-06-06 211852.png)
 ---
 
 ## 🚀 How it Works
